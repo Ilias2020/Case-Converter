@@ -1,0 +1,22 @@
+textarea {
+    height: 20rem;
+    width: 50rem;
+}
+.main-container{
+
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+
+}
+
+button{
+    background-color: coral;
+    margin: 5px;
+    padding: 5px;
+    font-size: large;
+    border: none;
+    border-radius: 5px;
+}
